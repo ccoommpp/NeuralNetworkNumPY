@@ -53,3 +53,7 @@ The neural network is implemented entirely using NumPy.
 - Gradient descent
 - MNIST classification
 - Training and loss visualization
+
+---
+## NOTE
+**To change the learning rate edit line 104 and 105**
