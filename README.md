@@ -55,5 +55,11 @@ The neural network is implemented entirely using NumPy.
 - Training and loss visualization
 
 ---
+
+## SAVE 
+
+The model weights automatically save themself in a folder called model so to load to test in other scenario just load the weights
+---
+
 ## NOTE
 **To change the learning rate edit line 104 and 105**
