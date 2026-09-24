@@ -12,7 +12,7 @@ All experiments below were trained for **1000 epochs**.
 
 ### Learning Rate: 0.01
 
-<img src="stats/ACCURACY_01(1).png" width="650">
+<img src="stats/ACCURACY_01.png" width="650">
 
 ### Learning Rate: 0.001
 
